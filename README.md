@@ -4,7 +4,9 @@ Dataset used: Iris Dataset
 Library Used: pandas, numpy, sklearn, keras
 
 Steps:
+
 Importing libraries that will be used
+
 Importing dataset
 Figure out how many labels are present in the dataset
 Associating numeric values with each type of labels present
